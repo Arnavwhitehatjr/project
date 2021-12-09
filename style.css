@@ -1,0 +1,45 @@
+body
+{
+  background-size: cover;
+  background-position:center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+#bed_room{
+    width: 500px;
+    height: 50px;
+    border-radius: 75px;
+}
+#bottles{
+    width: 500px;
+    height: 50px;
+    border-radius: 75px;
+}
+#computer{
+    width: 500px;
+    height: 50px;
+    border-radius: 75px;
+}
+#tv_ac{
+    width: 500px;
+    height: 50px;
+    border-radius: 75px;
+}
+#desk{
+    width: 500px;
+    height: 50px;
+    border-radius: 75px;
+}
